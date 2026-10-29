@@ -6,6 +6,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold">
         This is my unique static site edit!
       </h1>
+      <h1 className="text-4xl font-bold">Additional text for another update</h1>
     </main>
   );
 }
